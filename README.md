@@ -5,7 +5,6 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 
 
-<p align="center">
 <img width="975" height="610" alt="Line Calc ADS function for K Effective and A_DB" src="https://github.com/user-attachments/assets/568a0a14-2250-4828-b80d-58d7958603f9" />
 
 <img width="975" height="817" alt="Layout window of ADS for microstrip tl" src="https://github.com/user-attachments/assets/47a9c1ad-0806-4032-b0bf-3d1bd94a9f22" />
@@ -27,8 +26,7 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 <img width="647" height="496" alt="Solution 1 S Params" src="https://github.com/user-attachments/assets/2acbd1e5-e55a-4b4e-9317-177ec2e3a1d2" />  
 
-Solution 1 S parameters
+<p align="center">Solution 1 S parameters</p>
 
 
 <img width="687" height="465" alt="Solution 2 S Params" src="https://github.com/user-attachments/assets/2ee7b4f7-f082-44f7-b572-7233167057d5" />  Solution 2 S parameters
-</p>
