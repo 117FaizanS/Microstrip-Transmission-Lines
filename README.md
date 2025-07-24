@@ -22,9 +22,11 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 <img width="894" height="1117" alt="Hand Calculations for design of two tuning circuits to match ZL = 100 +j80 Ω to the characteristic impedance of the chosen substrate." src="https://github.com/user-attachments/assets/ab64dff3-3851-4e39-938b-181bab57ab7a" />
 
-<img align="center" width="673" height="540" alt="Tuning Parameters window ADS" src="https://github.com/user-attachments/assets/e513da58-e75f-4472-a21b-11c2c4327240" />
+<img width="673" height="540" alt="Tuning Parameters window ADS" src="https://github.com/user-attachments/assets/e513da58-e75f-4472-a21b-11c2c4327240" />
 
-<img align="center" width="647" height="496" alt="Solution 1 S Params" src="https://github.com/user-attachments/assets/2acbd1e5-e55a-4b4e-9317-177ec2e3a1d2" />
+<p align="center">
+<img width="647" height="496" alt="Solution 1 S Params" src="https://github.com/user-attachments/assets/2acbd1e5-e55a-4b4e-9317-177ec2e3a1d2" />
+</p>>
 
 <p align="center">Solution 1 S parameters</p>
 
