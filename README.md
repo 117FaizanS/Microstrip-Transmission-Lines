@@ -5,7 +5,7 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 
 
-#CAD 1
+
 <img width="975" height="610" alt="Line Calc ADS function for K Effective and A_DB" src="https://github.com/user-attachments/assets/568a0a14-2250-4828-b80d-58d7958603f9" />
 
 <img width="975" height="817" alt="Layout window of ADS for microstrip tl" src="https://github.com/user-attachments/assets/47a9c1ad-0806-4032-b0bf-3d1bd94a9f22" />
@@ -16,7 +16,9 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 <img width="815" height="697" alt="ADS Port Editor" src="https://github.com/user-attachments/assets/1b9c6afb-13b3-4d44-bb42-2f3613014fe5" />
 
-#CAD2
+
+
+
 <img width="897" height="1149" alt="Smith Chart for hand calcs" src="https://github.com/user-attachments/assets/d85c26eb-53f4-41ba-8f90-84856fe283c4" />
 
 <img width="894" height="1117" alt="Hand Calculations for design of two tuning circuits to match ZL = 100 +j80 Ω to the characteristic impedance of the chosen substrate." src="https://github.com/user-attachments/assets/ab64dff3-3851-4e39-938b-181bab57ab7a" />
