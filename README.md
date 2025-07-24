@@ -25,6 +25,7 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 <img width="673" height="540" alt="Tuning Parameters window ADS" src="https://github.com/user-attachments/assets/e513da58-e75f-4472-a21b-11c2c4327240" />
 
-<img width="647" height="496" alt="Solution 1 S Params" src="https://github.com/user-attachments/assets/2acbd1e5-e55a-4b4e-9317-177ec2e3a1d2" />  Solution 1 S parameters
+<img width="647" height="496" alt="Solution 1 S Params" src="https://github.com/user-attachments/assets/2acbd1e5-e55a-4b4e-9317-177ec2e3a1d2" />  
+<center>Solution 1 S parameters<\center>
 
 <img width="687" height="465" alt="Solution 2 S Params" src="https://github.com/user-attachments/assets/2ee7b4f7-f082-44f7-b572-7233167057d5" />  Solution 2 S parameters
