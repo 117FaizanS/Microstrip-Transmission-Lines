@@ -47,5 +47,7 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 <p align="center">Solution 1 S parameters</p>
 
 <p align="center">
-<img width="687" height="465" alt="Solution 2 S Params" src="https://github.com/user-attachments/assets/2ee7b4f7-f082-44f7-b572-7233167057d5" />  Solution 2 S parameters
+<img width="687" height="465" alt="Solution 2 S Params" src="https://github.com/user-attachments/assets/2ee7b4f7-f082-44f7-b572-7233167057d5" />
 </p>
+
+<p align="center">Solution 2 S parameters</p>
