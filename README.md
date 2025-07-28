@@ -9,7 +9,9 @@ A complete end-to-end design and simulation of passive RF components using micro
 </p>
 
 HOW?
+<p>
 Used Keysight ADS to design, tune, and simulate:
+</p>
 
 <ul>
   <li>75 Ω and 50 Ω microstrip lines</li>
@@ -24,6 +26,15 @@ Used Keysight ADS to design, tune, and simulate:
 Validated performance through EM simulations, S-parameter analysis, and hands-on lab measurements using a microstrip trainer, VCO, and crystal detector.
 
 RESULTS?
+<ul>
+  <li>Designed a matched 75 Ω microstrip line at 4.9 GHz with return loss > 21 dB and insertion loss ≈ 0.06 dB</li>
+
+  <li>Built and tested a low-pass filter showing correct passband/stopband behavior</li>
+
+  <li>Achieved impedance bandwidths up to 19.55 for TL-matching circuits</li>
+
+  <li>Designed power dividers and verified output symmetry across 2.5–3.6 GHz</li>
+</ul>
 
 
 
