@@ -2,9 +2,9 @@
 
 Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ₀) of 75 Ω, to design a microstrip transmission line on ADS. The design frequency was set to 4.9 GHz. 
 
-<p>
-WHAT?
-</p>
+<h2>
+What?
+</h2>
 A complete end-to-end design and simulation of passive RF components using microstrip transmission lines. This project focuses on optimizing impedance matching, minimizing signal reflection, and analyzing performance across key metrics like return loss and insertion loss.
 
 HOW?
@@ -24,7 +24,7 @@ Used Keysight ADS to design, tune, and simulate:
 
 Validated performance through EM simulations, S-parameter analysis, and hands-on lab measurements using a microstrip trainer, VCO, and crystal detector.
 
-RESULTS?
+RESULTS
 <ul>
   <li>Designed a matched 75 Ω microstrip line at 4.9 GHz with return loss > 21 dB and insertion loss ≈ 0.06 dB</li>
 
