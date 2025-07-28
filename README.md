@@ -4,7 +4,7 @@ Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ
 
 <p>
 WHAT?
-<\p>
+</p>
 A complete end-to-end design and simulation of passive RF components using microstrip transmission lines. This project focuses on optimizing impedance matching, minimizing signal reflection, and analyzing performance across key metrics like return loss and insertion loss.
 
 HOW?
