@@ -7,10 +7,10 @@ What?
 </h3>
 A complete end-to-end design and simulation of passive RF components using microstrip transmission lines. This project focuses on optimizing impedance matching, minimizing signal reflection, and analyzing performance across key metrics like return loss and insertion loss.
 
-HOW?
-<p>
+<h3>
+How?
+</h3>
 Used Keysight ADS to design, tune, and simulate:
-</p>
 
 <ul>
   <li>75 Ω and 50 Ω microstrip lines</li>
