@@ -1,7 +1,5 @@
 # Microstrip Transmission Line Design and Simulation
 
-Utilized the Rogers RO4003C substrate, which has a characteristic impedance (ℤ₀) of 75 Ω, to design a microstrip transmission line on ADS. The design frequency was set to 4.9 GHz. 
-
 <h3>
 What?
 </h3>
