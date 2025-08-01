@@ -45,5 +45,3 @@ Results
 <p align="center">
 <img width="975" height="817" alt="Layout window of ADS for microstrip tl" src="https://github.com/user-attachments/assets/47a9c1ad-0806-4032-b0bf-3d1bd94a9f22" />
 </p>
--attachments/assets/2ee7b4f7-f082-44f7-b572-7233167057d5" />
-</p>
