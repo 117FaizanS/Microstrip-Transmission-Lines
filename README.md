@@ -20,7 +20,7 @@ Used Keysight ADS to design, tune, and simulate:
   <li>Power dividers and couplers</li>
 </ul>
 
-Validated performance through EM simulations, S-parameter analysis, and hands-on lab measurements using a microstrip trainer, VCO, and crystal detector.
+Validated performance through EM simulations, S-parameter analysis, and hands-on lab measurements using a microstrip trainer, VNA, VCO, and crystal detector.
 
 <h3>
 Results
