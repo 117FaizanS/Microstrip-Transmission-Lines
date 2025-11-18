@@ -11,7 +11,7 @@ How?
 Used Keysight ADS to design, tune, and simulate:
 
 <ul>
-  <li>75 Ω and 50 Ω microstrip lines</li>
+  <li>Microstrip lines with characteristic impedance, Z<sub>0</sub>, of 75 Ω and 50 Ω</li>
 
   <li>Low-pass filters</li>
 
